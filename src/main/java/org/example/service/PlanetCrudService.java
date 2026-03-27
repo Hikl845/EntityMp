@@ -1,6 +1,6 @@
 package org.example.service;
 
-import org.example.Entity.Planet;
+import org.example.entity.Planet;
 
 public interface PlanetCrudService {
     void create(String id, String name);

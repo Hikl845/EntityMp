@@ -1,6 +1,6 @@
 package org.example.service;
 
-import org.example.Entity.Planet;
+import org.example.entity.Planet;
 import org.example.dao.PlanetDaoService;
 
 public class PlanetCrudServiceImpl implements PlanetCrudService{

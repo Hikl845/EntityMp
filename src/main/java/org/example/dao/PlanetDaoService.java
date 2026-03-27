@@ -1,6 +1,6 @@
 package org.example.dao;
 
-import org.example.Entity.Planet;
+import org.example.entity.Planet;
 
 public interface PlanetDaoService {
     void create(String id, String name);

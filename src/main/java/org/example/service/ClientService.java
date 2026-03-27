@@ -1,6 +1,6 @@
 package org.example.service;
 
-import org.example.Entity.Client;
+import org.example.entity.Client;
 
 public interface ClientService {
     Long create(String name);

@@ -1,6 +1,6 @@
 package org.example.service;
 
-import org.example.Entity.Client;
+import org.example.entity.Client;
 import org.example.dao.ClientDaoService;
 
 public class ClientServiceImpl implements ClientService{

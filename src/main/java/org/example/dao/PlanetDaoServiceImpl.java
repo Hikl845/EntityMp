@@ -1,6 +1,6 @@
 package org.example.dao;
 
-import org.example.Entity.Planet;
+import org.example.entity.Planet;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;

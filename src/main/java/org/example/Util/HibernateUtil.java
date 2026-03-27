@@ -1,8 +1,8 @@
 package org.example.Util;
 
-import org.example.Entity.Client;
-import org.example.Entity.Planet;
-import org.example.Entity.Ticket;
+import org.example.entity.Client;
+import org.example.entity.Planet;
+import org.example.entity.Ticket;
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.MetadataSources;
 import org.hibernate.boot.registry.StandardServiceRegistry;

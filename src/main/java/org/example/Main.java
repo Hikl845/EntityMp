@@ -1,9 +1,9 @@
 package org.example;
 
 import org.example.dao.*;
-import org.example.Entity.Client;
-import org.example.Entity.Planet;
-import org.example.Entity.Ticket;
+import org.example.entity.Client;
+import org.example.entity.Planet;
+import org.example.entity.Ticket;
 import org.example.service.*;
 import org.example.Util.HibernateUtil;
 import org.hibernate.SessionFactory;

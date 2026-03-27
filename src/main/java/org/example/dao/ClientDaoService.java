@@ -1,6 +1,6 @@
 package org.example.dao;
 
-import org.example.Entity.Client;
+import org.example.entity.Client;
 
 public interface ClientDaoService {
 

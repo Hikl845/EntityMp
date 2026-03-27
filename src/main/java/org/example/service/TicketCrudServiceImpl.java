@@ -1,6 +1,6 @@
 package org.example.service;
 
-import org.example.Entity.Ticket;
+import org.example.entity.Ticket;
 import org.example.dao.TicketDaoService;
 
 import java.util.List;

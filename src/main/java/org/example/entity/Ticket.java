@@ -1,7 +1,6 @@
-package org.example.Entity;
+package org.example.entity;
 
 import jakarta.persistence.*;
-import org.hibernate.engine.jdbc.ClobImplementer;
 
 import java.time.LocalDateTime;
 
